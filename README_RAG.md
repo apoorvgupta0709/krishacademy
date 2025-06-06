@@ -165,10 +165,4 @@ Pull requests welcome! Please format your code with Black and test before submit
 
 ## 📬 Contact
 
-For help, open an issue or connect with [@apoorvgupta0709](https://github.com/apoorvgupta0709).
-
----
-
-## 📜 License
-
-MIT License. Use freely with attribution.
+For help, open an issue or connect with [@apoorvgupta0709](https://github.com/apoorvgupta0709)
